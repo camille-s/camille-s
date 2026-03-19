@@ -5,10 +5,10 @@ I make charts and maps with code, mostly in R. I'm a Chicago native living in Ba
 ## Currently working on...
 
 - 📚 teaching data visualization
-- 😩 relearning ReactJS
-- 👨‍👧‍👦 documenting demographic trends
+- 🛠️ better build tools
+- 💾 self-hosting
 
-## Currently learning...
+## Currently studying...
 
 - 🐍 Snakemake
 - 🤖 Vim
@@ -22,8 +22,10 @@ I make charts and maps with code, mostly in R. I'm a Chicago native living in Ba
 ## Up late thinking about...
 
 - ⚠️ police surveillance technology in Black neighborhoods
-- 🔦 how data science can counteract said surveillance
+- 🔦 who owns the servers
+- ❗free speech & free assembly
 
-## I like working with...
+## Lately I'm proud of...
 
-[![My Skills](https://skillicons.dev/icons?i=r,bash,docker,react,d3,processing,py,pytorch,githubactions)](https://skillicons.dev)
+- 📎 the build tools and quarto notebooks that generate [180+ narrative reports on equity in local communities](https://ctdatahaven.org/report/connecticut-town-equity-reports)
+- 🔍 using data to [investigate funding threats](https://ctdatahaven.org/report/connecticuts-behavioral-health-services-at-risk-mapping-nearly-100-million-in-suspended-federal-samhsa-grants/)
